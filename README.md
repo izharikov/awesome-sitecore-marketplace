@@ -4,12 +4,23 @@
 
 ## Contents
 
+- [📚 Documentation](#-documentation)
 - [🤖 AI-Powered Apps](#-ai-powered-apps)
 - [🔗 AI Integrations](#-ai-integrations)
-- [📚 Documentation](#-documentation)
 - [📝 Blog Posts & Tutorials](#-blog-posts--tutorials)
 - [💡 Example Apps](#-example-apps)
 - [👤 Maintainer](#-maintainer)
+
+## 📚 Documentation
+
+- [Getting Started](https://doc.sitecore.com/mp/en/developers/sdk/latest/sitecore-marketplace-sdk/quick-start--cli-.html) - CLI quickstart using `npx shadcn@latest add` to scaffold your environment.
+- [Sitecore Marketplace Developer Basics](https://learning.sitecore.com/partners/learn/courses/1502/sitecore-marketplace-developer-basics) - Official e-learning course covering marketplace fundamentals.
+- [marketplace-sdk](https://github.com/Sitecore/marketplace-sdk) - Official Marketplace SDK source code.
+- [Blok](https://github.com/sitecore/blok) - Sitecore's product design system.
+- [Apps Architecture](https://doc.sitecore.com/mp/en/developers/marketplace/app-architecture-and-authorization-options.html) - Architecture and authorization options for marketplace apps.
+- [Sitecore Marketer MCP](https://doc.sitecore.com/mp/en/developers/sdk/latest/sitecore-marketplace-sdk/adding-the-sitecore-marketer-mcp-to-marketplace-apps.html) - Connect Marketers MCP to marketplace apps.
+
+> 💡 **Tip:** Use [DeepWiki](https://deepwiki.com/) or [Context7](https://context7.com/) to explore any GitHub repository listed above — get AI-powered documentation, code explanations, and up-to-date API references.
 
 ## 🤖 AI-Powered Apps
 
@@ -23,15 +34,6 @@
 - [AI Elements by Vercel](https://ai-sdk.dev/elements) - Pre-built UI components for AI chat interfaces.
 - [sitecore-ai-sdk-tools](https://github.com/izharikov/sitecore-ai-sdk-tools) - AI SDK tools for interacting with Sitecore Marketplace APIs.
 - [sitecore-skills](https://github.com/vercel-labs/sitecore-skills) - Set of Sitecore-related skills for coding agents.
-
-## 📚 Documentation
-
-- [Getting Started](https://doc.sitecore.com/mp/en/developers/sdk/latest/sitecore-marketplace-sdk/quick-start--cli-.html) - CLI quickstart using `npx shadcn@latest add` to scaffold your environment.
-- [Sitecore Marketplace Developer Basics](https://learning.sitecore.com/partners/learn/courses/1502/sitecore-marketplace-developer-basics) - Official e-learning course covering marketplace fundamentals.
-- [marketplace-sdk](https://github.com/Sitecore/marketplace-sdk) - Official Marketplace SDK source code.
-- [Blok](https://github.com/sitecore/blok) - Sitecore's product design system.
-- [Apps Architecture](https://doc.sitecore.com/mp/en/developers/marketplace/app-architecture-and-authorization-options.html) - Architecture and authorization options for marketplace apps.
-- [Sitecore Marketer MCP](https://doc.sitecore.com/mp/en/developers/sdk/latest/sitecore-marketplace-sdk/adding-the-sitecore-marketer-mcp-to-marketplace-apps.html) - Connect Marketers MCP to marketplace apps.
 
 ## 📝 Blog Posts & Tutorials
 
